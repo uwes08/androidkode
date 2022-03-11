@@ -1,0 +1,56 @@
+.main-section{
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    float: center;
+        margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+.profile-header{
+    background-color: #17a2b8;
+    height:150px;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+.user-detail{
+    margin:-50px 0px 30px 0px;
+    float: center;
+        margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+.user-detail .rio{
+    height:100px;
+    width:100px;
+    border:2px solid #008081;
+}
+.user-detail h5{
+    margin:15px 0px 5px 0px;
+}
+.user-social-detail{
+    padding:15px 0px;
+    background-color: #3ddb84;
+}
+.user-social-detail a i{
+    color:#fff;
+    font-size:23px;
+    padding: 0px 5px;
+}
+ .frame-tombol  { 
+    padding: 20px 12px;
+    margin-bottom: 10px;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: transparent;
+    }
+.breadcrumb{
+  background: transparent;
+  font-size: 10pt;
+}
